@@ -67,7 +67,7 @@ img {
 }
 
 .logo {
-  color: #4d5ae5;
+  color: #2938e1;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -78,7 +78,7 @@ img {
 }
 
 .studio {
-  color: #2e2f42;
+  color: #e1d70c;
 }
 
 .header-menu-list {
@@ -623,7 +623,7 @@ img {
 }
 
 .footer-logo {
-  color: #4d5ae5;
+  color: #2938e1;
   font-family: Raleway, sans-serif;
   display: inline-flex;
   align-items: center;
@@ -636,7 +636,7 @@ img {
 }
 
 .footer-studio {
-  color: #f4f4fd;
+  color: #e1d70c;
   padding-top: 101.5;
 }
 
@@ -1384,6 +1384,26 @@ img {
 
   .footer-label {
     display: flex;
+  }
+
+  .footer-address {
+    display: flex;
+    font-style: normal;
+    margin-left: auto;
+  }
+
+  .footer-address-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .footer-address-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #e7e9fc;
   }
 
   .modal {
