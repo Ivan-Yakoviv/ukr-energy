@@ -578,7 +578,7 @@ img {
 .portfolio-cover-text {
   position: absolute;
   top: 0;
-  background-color: rgba(77, 90, 229, 1);
+  background-color: rgb(77, 133, 229);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
